@@ -11,6 +11,7 @@ Goal: pass the **sql** mastery test retake by Sunday 18 Oct.
 Open the terminal (Ctrl+`) in this folder:
     node run.js 01_schema.sql
     node run.js 02_seed.sql
+    node run.js 02b_more_data.sql
     node run.js 03_questions.sql
     node run.js --reset        # wipe the database and start over
 
